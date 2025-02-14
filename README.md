@@ -1,5 +1,5 @@
 # Coffee_Sales_Analysis
-![Coffee Background Banner (4)](smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpgcoffee-brain-caffeine-neuroscincces.webp)
+![Coffee Background Banner (4)](coffee.jpeg)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
